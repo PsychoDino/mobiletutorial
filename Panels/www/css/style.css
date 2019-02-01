@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: auto;
+}
+
+
+.wrapper {
+    max-width: 1080px;
+    margin: auto;
+}
+
+p {
+    color: antiquewhite;
+    text-shadow: 2px 1px 2px #000;
+}
